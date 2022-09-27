@@ -1,0 +1,2 @@
+I tested connect bewteen client and server, and try to type command from client to server, and check the return.
+Then, I try to input any wrong command, and check it return error information.
